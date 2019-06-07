@@ -27,7 +27,7 @@ h6 {
 }
 #about,
 #service,
-#pple,
+#font,
 .specific,
 #contact,
 .footer p {
@@ -101,13 +101,7 @@ h1 {
     left: 50%;
     transform: translate(-50%);
 }
-::placeholder,
-.con {
-    color: #fff;
-}
-::placeholder{
-    font-size: 10px;
-}
+
 .con {
     padding-bottom: 30px;
 }
