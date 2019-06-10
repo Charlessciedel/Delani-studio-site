@@ -7,9 +7,10 @@ $('.main').click(function () {
 // giving feedback to the customer
 $("button").click(function (e) {
   var client = document.getElementById('name').value;
-  alert(' Dear ' + ' esteemed ' + client + ' we have received your message successful. ' + ' Feel free to reach out to us anytime');
+  alert(' Dear ' + ' esteemed ' + client + ' we have received your message. ' + ' Thank you for the feedback.');
   e.preventDefault();
 });
+
 // capturing the input details in form
 
 $("#form").submit(function(e){
