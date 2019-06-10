@@ -6,10 +6,10 @@
 To practice with Delani studio, clone or download this repository (link in the section below) to your local machine, fire up your favorite text editor and start practicing!
 
 ## Project live site
- This is the live .[ Click for the demo]()
+ This is the live .[ Click for the demo]( https://charlessciedel.github.io/Delani-studio-site/)
  
 ## Setup instructions
-*  No Setup is necessarily required but you are required to have a internet browser in order to view the website.  [Online repo]()
+*  No Setup is necessarily required but you are required to have a internet browser in order to view the website.  [Online repo]( https://charlessciedel.github.io/Delani-studio-site/)
 * Click on the green button to clone or download
 
 ## The app is not perfect since there are some bugs that will be corrected in future. 
