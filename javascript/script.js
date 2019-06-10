@@ -1,4 +1,4 @@
-/*
+
 // what we do section
 $('.main').click(function () {
   $(this).children('.hide').slideToggle(1200);
